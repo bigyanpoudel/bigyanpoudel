@@ -6,6 +6,10 @@
 # 💫 About Me:
 ✨ I am working as Full Stack developer<br>🌱I am learning new technology and growing<br>⚡ I love travelling, hiking, playing football, coding and trying different cuisine
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+- [Creating and Opening Modals in global scope using NextJs](https://medium.com/wesionary-team/creating-and-opening-modals-in-global-scope-using-nextjs-746cebfe1c96)
+<!-- BLOG-POST-LIST:END -->
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bigyanpoudel) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@bigyan.poudel) 
