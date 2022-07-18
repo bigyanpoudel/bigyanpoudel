@@ -6,7 +6,7 @@
 # 💫 About Me:
 ✨ I am working as Full Stack developer<br>🌱 I am learning new technology and growing<br>⚡ I love travelling, hiking, playing football, coding and trying different cuisine
 
-# 🚀 Blogs posts
+# 🚀 Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Creating and Opening Modals in global scope using NextJs](https://medium.com/wesionary-team/creating-and-opening-modals-in-global-scope-using-nextjs-746cebfe1c96)
 - [Next.js Theming and Storybook with TailwindCSS & DaisyUI (Part 1)](https://medium.com/wesionary-team/next-js-theming-and-storybook-with-tailwindcss-daisyui-part-1-779348e9db08)
