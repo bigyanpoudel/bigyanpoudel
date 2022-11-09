@@ -13,6 +13,9 @@
 - [Next.js Theming and Storybook with TailwindCSS & DaisyUI (Part 2)](https://medium.com/wesionary-team/next-js-theming-and-storybook-with-tailwindcss-daisyui-part-2-2ad6ce0f5319)
 <!-- BLOG-POST-LIST:END -->
 
+# 💫  NPM PACKAGE
+- [React Global Modal](https://www.npmjs.com/package/react-global-modal)
+- 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bigyanpoudel) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@bigyan.poudel) 
 
